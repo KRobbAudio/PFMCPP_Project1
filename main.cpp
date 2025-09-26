@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1:bark
+dog.bark();
+//  action 2:run
+dog.run();
+//  action 3:jump
+dog.jump();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:student
+//  action 1:studies
+student.study();
+//  action 2:reads
+student.read();
+//  action 3:stresses
+student.stress();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:professor
+//  action 1:lectures
+professor.lecture();
+//  action 2:grades
+professor.grade();
+//  action 3:researches
+professor.research();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:book
+//  action 1:opens
+book.open();
+//  action 2:closes
+book.close();
+//  action 3:flips pages
+book.flipPages();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:sandwich
+//  action 1:make
+sandwich.make();
+//  action 2:eat
+sandwich.eat();
+//  action 3:cut
+sandwich.cut();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:water
+//  action 1:drink
+water.drink():
+//  action 2:pour
+water.pour();
+//  action 3:empty
+water.empty();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:window
+//  action 1:open
+window.open();
+//  action 2:close
+window.close();
+//  action 3:wash
+window.wash();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:lunch
+//  action 1:cook
+lunch.cook():
+//  action 2:eat
+lunch.eat();
+//  action 3:break for
+lunch.breakFor();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:leg
+//  action 1:walk with
+leg.WalkWith();
+//  action 2:kick with
+leg.KickWith():
+//  action 3:bends
+leg.bend();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:paper
+//  action 1:shuffles
+paper.shuffle();
+//  action 2:folds
+paper.fold();
+//  action 3:writes on
+paper.writeOn();
 
 
 #endif
