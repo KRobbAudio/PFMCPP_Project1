@@ -88,22 +88,22 @@ book.close();
 book.flipPages();
 
 //  5)
-//  Noun:sandwich
-//  action 1:make
-sandwich.make();
-//  action 2:eat
-sandwich.eat();
-//  action 3:cut
-sandwich.cut();
+//  Noun:baby
+//  action 1:cries
+baby.cries();
+//  action 2:crawls
+baby.crawls();
+//  action 3:plays
+baby.plays();
 
 //  6)
-//  Noun:water
-//  action 1:drink
-water.drink():
-//  action 2:pour
-water.pour();
-//  action 3:empty
-water.empty();
+//  Noun:rain
+//  action 1:falls
+rain.falls():
+//  action 2:pours
+rain.pour();
+//  action 3:storms
+rain.storm();
 
 //  7)
 //  Noun:window
@@ -115,13 +115,13 @@ window.close();
 window.wash();
 
 //  8)
-//  Noun:lunch
-//  action 1:cook
-lunch.cook():
-//  action 2:eat
-lunch.eat();
-//  action 3:break for
-lunch.breakFor();
+//  Noun:chef
+//  action 1:cooks
+chef.cook():
+//  action 2:tastes
+chef.taste();
+//  action 3:chops
+chef.chops();
 
 //  9)
 //  Noun:leg
@@ -133,13 +133,13 @@ leg.KickWith():
 leg.bend();
 
 //  10)
-//  Noun:paper
-//  action 1:shuffles
-paper.shuffle();
-//  action 2:folds
-paper.fold();
-//  action 3:writes on
-paper.writeOn();
+//  Noun:car
+//  action 1:turns
+car.turns();
+//  action 2:stops
+car.stop();
+//  action 3:accelerates
+car.accelerate();
 
 
 #endif
